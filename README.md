@@ -1,4 +1,5 @@
 # git-primer
+05 Sep 2024
 ### 1. Create a Remote Repository
 - Go to GitHub and create a new repository named `git-primer`.
 - Set the visibility to either public or private, based on your preference.
